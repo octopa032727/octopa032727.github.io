@@ -1,8 +1,13 @@
 .octopa032727{
     text-align:center;
-    color:#FF0845;
+    color:#FF0040;
+    background-color:#029807;
+}
+
+.columns{
+    color:#0080FF;
 }
 
 body{
-    background-color:#19C0DE;
+    background-color:#E8EDA5;
 }
