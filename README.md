@@ -1,2 +1,3 @@
 # Octopa032727
-MyProfilePage
+のWebサイトです。<br>
+SNSアカウントなどを載せてます。
